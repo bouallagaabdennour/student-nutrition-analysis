@@ -14,7 +14,23 @@ This project aims to analyze the eating habits of university students in Algeria
   - Fast food and soft drink consumption.
   - Fruit and vegetable intake.
 
----
+## ⚙️ Project Steps
+
+- Created a collaborative GitHub repository for the project.
+
+
+- Designed and distributed the student nutrition survey.
+
+
+- Collected and organized responses in Excel.
+
+
+- Analyzed results and generated visual charts.
+
+
+- Summarized findings and recommendations in this README document.
+
+- 
 
 ## 📊 Key Results
 | Eating Habit | Percentage |
