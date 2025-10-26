@@ -40,9 +40,9 @@ This pattern can negatively affect concentration, energy levels, and overall hea
 ---
 
 ## 👩‍🔬 Contributors
-- Student: [Your Name]  
-- University: [Your University Name]  
-- Academic Year: 3rd Year – Open Source Course  
+- Student: [Bouallaga Abdennour]  
+- University: [Saad Dahleb]  
+- Academic Year: 3rd Year – Open Source TP  
 
 ---
 
