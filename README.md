@@ -40,7 +40,7 @@ This pattern can negatively affect concentration, energy levels, and overall hea
 ---
 
 ## 👩‍🔬 Contributors
-- Student: [Bouallaga Abdennour]  
+- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine] 
 - University: [Saad Dahleb]  
 - Academic Year: 3rd Year – Open Source TP  
 
