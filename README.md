@@ -1,5 +1,10 @@
 # 🥗 Student Nutrition Analysis 2025
 
+## 🧩 Introduction
+This project was carried out as part of the “Open Source Programming” module.  
+It focuses on collecting and analyzing nutritional habits among university students using simple data tools and visualization methods.
+
+
 ## 🎯 Objective
 This project aims to analyze the eating habits of university students in Algeria and raise awareness about the importance of a balanced diet and its impact on academic performance.
 
