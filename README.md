@@ -35,7 +35,7 @@ This project aims to analyze the eating habits of university students in Algeria
 
 - Summarized findings and recommendations in this README document.
 
-- 
+ 
 
 ## 📊 Key Results
 | Eating Habit | Percentage |
@@ -53,15 +53,50 @@ This pattern can negatively affect concentration, energy levels, and overall hea
 
 ---
 
-## 💡 Recommendations
-- Implement nutritional awareness programs at universities.  
-- Encourage students to prepare simple and healthy homemade meals.  
-- Reduce the intake of sugary drinks and replace them with water.  
+## 💡 Recommendations 
+Based on the study results showing a strong tendency toward fast food consumption and low water and fruit intake, several practical measures can be proposed to help improve students’ eating habits:
+
+### 🏫 At the University Level:
+
+1. **Organize open awareness workshops on healthy nutrition**
+   These sessions can be led by students from nutrition or biological sciences departments to share knowledge about balanced diets and demonstrate how to prepare simple, healthy meals at home.
+
+2. **Launch a “Daily Water Intake Challenge”**
+   Encourage students to drink 1 to 1.5 liters of water per day for two weeks, and share the challenge results on university social media pages to boost participation.
+
+3. **Improve the on-campus food environment**
+
+   * Provide healthy options in the cafeteria, such as salads and natural juices.
+   * **Install water vending machines** in student gathering areas instead of relying only on coffee and snack machines.
+
+4. **Design simple and inspiring reminder posters**
+   Display posters in classrooms and hallways with short messages such as:
+
+   * “Take a sip of water now 💧”
+  
+     The goal is to promote daily awareness in a light and easy-to-read way for everyone.
+
+
+
+### 👩‍🎓 At the Student Level:
+
+1. **Prepare quick and healthy homemade meals**
+   Examples include tuna or egg sandwiches with vegetables, or simple salads that can be stored and eaten later.
+
+2. **Track water intake using an app or a personal bottle**
+   Use a mobile app for hydration reminders or carry a 1-liter bottle to refill throughout the day.
+
+3. **Manage coffee consumption wisely**
+   It’s best to drink coffee in the morning to boost focus and energy, avoid it in the evening to prevent sleep issues, and gradually reduce daily intake to maintain body balance.
+
+4. **Have breakfast regularly**
+   Even a light meal like milk with a banana or bread with cheese can help improve concentration and energy during morning lectures.
+
 
 ---
 
 ## 👩‍🔬 Contributors
-- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine] 
+- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine/Semmad Rania] 
 - University: [Saad Dahleb]  
 - Academic Year: 3rd Year – Open Source TP  
 
