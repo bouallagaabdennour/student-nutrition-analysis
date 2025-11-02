@@ -50,6 +50,7 @@ This project aims to analyze the eating habits of university students in Algeria
 ## 📈 Analysis
 The collected data shows that most students follow an unbalanced diet with a high dependency on fast food and low water consumption.  
 This pattern can negatively affect concentration, energy levels, and overall health.
+It can even affect students' mental health in some cases. 
 
 ---
 
@@ -57,7 +58,8 @@ This pattern can negatively affect concentration, energy levels, and overall hea
 - Implement nutritional awareness programs at universities.  
 - Encourage students to prepare simple and healthy homemade meals.  
 - Reduce the intake of sugary drinks and replace them with water.  
-
+- Planning and Coordination of Healthy Meals in the University Cafeteria.
+- Reducing the Sale of Unhealthy Products in University Shops.4
 ---
 
 ## 👩‍🔬 Contributors
