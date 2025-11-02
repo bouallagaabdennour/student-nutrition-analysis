@@ -96,8 +96,6 @@ Based on the study results showing a strong tendency toward fast food consumptio
 
 ---
 
-## 👩‍🔬 Contributors
-- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine/Semmad Rania] 
 ## 💡 Recommendations
 - Implement nutritional awareness programs at universities.  
 - Encourage students to prepare simple and healthy homemade meals.  
@@ -107,7 +105,7 @@ Based on the study results showing a strong tendency toward fast food consumptio
 ---
 
 ## 👩‍🔬 Contributors
-- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine /raissi abderrahim] 
+- Student: [Bouallaga Abdennour/Bouhafer Zine Eddine /raissi abderrahim/Semmad Rania] 
 - University: [Saad Dahleb]  
 - Academic Year: 3rd Year – Open Source TP  
 
